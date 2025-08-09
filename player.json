@@ -1,7 +1,7 @@
 {
-  "level":54,"expCur":329,"expMax":10000,
-  "gold":123456,"diamond":12,"gem":3,
-  "fishCur":23,"fishMax":200,
-  "staminaCur":120,"staminaMax":120,
+  "level":100,"expCur":329,"expMax":10000,
+  "gold":123456789,"diamond":123456,"gem":12345,
+  "fishCur":0,"fishMax":10,
+  "staminaCur":20,"staminaMax":100,
   "mailUnread":true,"event1Unread":false,"event2Unread":true
 }
