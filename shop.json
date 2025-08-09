@@ -1,38 +1,14 @@
-[
-  {
-    "id": 1,
-    "name": "Cá Rồng",
-    "fishIcon": "carong.png",
-    "price": 5000,
-    "currency": "gold",
-    "priceRow": {
-      "goldIcon": "gold.png",
-      "priceText": "5,000 vàng"
-    },
-    "buyBtn": true
-  },
-  {
-    "id": 2,
-    "name": "Cá La Hán",
-    "fishIcon": "calahan.png",
-    "price": 15000,
-    "currency": "gold",
-    "priceRow": {
-      "goldIcon": "gold.png",
-      "priceText": "15,000 vàng"
-    },
-    "buyBtn": true
-  },
-  {
-    "id": 3,
-    "name": "Cá Vàng",
-    "fishIcon": "cavang.png",
-    "price": 1,
-    "currency": "diamond",
-    "priceRow": {
-      "goldIcon": "diamond.png",
-      "priceText": "1 kim cương"
-    },
-    "buyBtn": false
-  }
-]
+{ "fishId": "1", "quantity": 1, "priceGold": 500 }
+{ "fishId": "2", "quantity": 1, "priceGold": 500 }
+{ "fishId": "3", "quantity": 1, "priceGold": 500 }
+{ "fishId": "4", "quantity": 1, "priceGold": 500 }
+{ "fishId": "5", "quantity": 1, "priceGold": 500 }
+{ "fishId": "6", "quantity": 1, "priceGold": 500 }
+{ "fishId": "7", "quantity": 1, "priceGold": 500 }
+{ "fishId": "8", "quantity": 1, "priceGold": 500 }
+{ "fishId": "9", "quantity": 1, "priceGold": 500 }
+{ "fishId": "10", "quantity": 1, "priceGold": 500 }
+{ "fishId": "11", "quantity": 1, "priceGold": 500 }
+{ "fishId": "12", "quantity": 1, "priceGold": 500 }
+{ "fishId": "13", "quantity": 1, "priceGold": 500 }
+{ "fishId": "14", "quantity": 1, "priceGold": 500 }
