@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Cá Rồng",
+    "fishIcon": "carong.png",            // Tên file/icon hiển thị cá
+    "price": 5000,                       // Giá cá
+    "currency": "gold",                  // Loại tiền (gold, diamond, v.v.)
+    "priceRow": {
+      "goldIcon": "gold.png",            // Icon tiền vàng
+      "priceText": "5,000 vàng"          // Text hiển thị giá
+    },
+    "buyBtn": true                       // Có thể mua hay không
+  },
+  {
+    "id": 2,
+    "name": "Cá La Hán",
+    "fishIcon": "calahan.png",
+    "price": 15000,
+    "currency": "gold",
+    "priceRow": {
+      "goldIcon": "gold.png",
+      "priceText": "15,000 vàng"
+    },
+    "buyBtn": true
+  },
+  {
+    "id": 3,
+    "name": "Cá Vàng",
+    "fishIcon": "cavang.png",
+    "price": 1,
+    "currency": "diamond",
+    "priceRow": {
+      "goldIcon": "diamond.png",
+      "priceText": "1 kim cương"
+    },
+    "buyBtn": false
+  }
+]
