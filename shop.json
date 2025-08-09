@@ -1,16 +1,100 @@
 [
-  { "fishId": "fish_basic", "quantity": 1, "priceGold": 500 },
-  { "fishId": "fish_basic", "quantity": 1, "priceGold": 500 },
-  { "fishId": "fish_basic", "quantity": 1, "priceGold": 500 },
-  { "fishId": "fish_basic", "quantity": 1, "priceGold": 500 },
-  { "fishId": "fish_basic", "quantity": 1, "priceGold": 500 },
-  { "fishId": "fish_basic", "quantity": 1, "priceGold": 500 },
-  { "fishId": "fish_basic", "quantity": 1, "priceGold": 500 },
-  { "fishId": "fish_basic", "quantity": 1, "priceGold": 500 },
-  { "fishId": "fish_basic", "quantity": 1, "priceGold": 500 },
-  { "fishId": "fish_basic", "quantity": 1, "priceGold": 500 },
-  { "fishId": "fish_basic", "quantity": 1, "priceGold": 500 },
-  { "fishId": "fish_basic", "quantity": 1, "priceGold": 500 },
-  { "fishId": "fish_basic", "quantity": 1, "priceGold": 500 },
-  { "fishId": "fish_basic", "quantity": 1, "priceGold": 500 }
+  {
+    "id": "fish_basic",
+    "name": "Cá Trắng",
+    "priceGold": 100,
+    "fishAmount": 1,
+    "iconUrl": "https://github.com/pacatemon-code/game-data/blob/main/CaTrang.png"
+  },
+  {
+    "id": "fish_rare",
+    "name": "Cá Thiên Đường",
+    "priceGold": 1000,
+    "fishAmount": 1,
+    "iconUrl": "https://github.com/pacatemon-code/game-data/blob/main/CaThienDuong.png"
+  },
+  {
+    "id": "fish_elite",
+    "name": "Cá Thiên Thần Hoàng Đế",
+    "priceGold": 5000,
+    "fishAmount": 1,
+    "iconUrl": "https://github.com/pacatemon-code/game-data/blob/main/CaThienThanHoangDe.png"
+  },
+  {
+    "id": "fish_basic",
+    "name": "Cá Ngừ Vây Vàng",
+    "priceGold": 100,
+    "fishAmount": 1,
+    "iconUrl": "https://github.com/pacatemon-code/game-data/blob/main/CaNguVayVang.png"
+  },
+  {
+    "id": "fish_rare",
+    "name": "Cá Mập Xám",
+    "priceGold": 1000,
+    "fishAmount": 1,
+    "iconUrl": "https://github.com/pacatemon-code/game-data/blob/main/CaMapXam.png"
+  },
+  {
+    "id": "fish_elite",
+    "name": "Cá Chaetodontidae",
+    "priceGold": 5000,
+    "fishAmount": 1,
+    "iconUrl": "https://github.com/pacatemon-code/game-data/blob/main/CaChaetodontidae.png"
+  },
+  {
+    "id": "fish_basic",
+    "name": "Cá Cảnh Nhiệt Đới",
+    "priceGold": 100,
+    "fishAmount": 1,
+    "iconUrl": "https://github.com/pacatemon-code/game-data/blob/main/CaCanhNhietDoi.png"
+  },
+  {
+    "id": "fish_rare",
+    "name": "Cá Cảnh Nhiệt Đới 2",
+    "priceGold": 1000,
+    "fishAmount": 1,
+    "iconUrl": "https://github.com/pacatemon-code/game-data/blob/main/CaCanhNhietDoi2.png"
+  },
+  {
+    "id": "fish_elite",
+    "name": "Cá Cánh Diều",
+    "priceGold": 5000,
+    "fishAmount": 1,
+    "iconUrl": "https://github.com/pacatemon-code/game-data/blob/main/CaCachDieu.png"
+  },
+  {
+    "id": "fish_basic",
+    "name": "Cá Finny",
+    "priceGold": 100,
+    "fishAmount": 1,
+    "iconUrl": "https://github.com/pacatemon-code/game-data/blob/main/CaFinny.png"
+  },
+  {
+    "id": "fish_rare",
+    "name": "Cá Dory",
+    "priceGold": 1000,
+    "fishAmount": 1,
+    "iconUrl": "https://github.com/pacatemon-code/game-data/blob/main/CaDory.png"
+  },
+  {
+    "id": "fish_elite",
+    "name": "Cá Hề",
+    "priceGold": 5000,
+    "fishAmount": 1,
+    "iconUrl": "https://github.com/pacatemon-code/game-data/blob/main/CaHe.png"
+  },
+  {
+    "id": "fish_rare",
+    "name": "Cá Bướm",
+    "priceGold": 1000,
+    "fishAmount": 1,
+    "iconUrl": "https://github.com/pacatemon-code/game-data/blob/main/CaBuom.png"
+  },
+  {
+    "id": "fish_elite",
+    "name": "Cá Sọc Ngựa",
+    "priceGold": 5000,
+    "fishAmount": 1,
+    "iconUrl": "https://github.com/pacatemon-code/game-data/blob/main/CaSocNgua.png"
+  }
 ]
