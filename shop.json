@@ -2,14 +2,14 @@
   {
     "id": 1,
     "name": "Cá Rồng",
-    "fishIcon": "carong.png",            // Tên file/icon hiển thị cá
-    "price": 5000,                       // Giá cá
-    "currency": "gold",                  // Loại tiền (gold, diamond, v.v.)
+    "fishIcon": "carong.png",
+    "price": 5000,
+    "currency": "gold",
     "priceRow": {
-      "goldIcon": "gold.png",            // Icon tiền vàng
-      "priceText": "5,000 vàng"          // Text hiển thị giá
+      "goldIcon": "gold.png",
+      "priceText": "5,000 vàng"
     },
-    "buyBtn": true                       // Có thể mua hay không
+    "buyBtn": true
   },
   {
     "id": 2,
