@@ -12,5 +12,18 @@
   { "fishId": "fish_11", "quantity": 1, "priceGold": 2700 },
   { "fishId": "fish_12", "quantity": 1, "priceGold": 3200 },
   { "fishId": "fish_13", "quantity": 1, "priceGold": 4100 },
-  { "fishId": "fish_14", "quantity": 1, "priceGold": 5200 }
+  { "fishId": "fish_14", "quantity": 1, "priceGold": 5200 },
+  { "fishId": "fish_15", "quantity": 1, "priceGold": 350 },
+  { "fishId": "fish_16", "quantity": 1, "priceGold": 430 },
+  { "fishId": "fish_17", "quantity": 1, "priceGold": 180 },
+  { "fishId": "fish_18", "quantity": 1, "priceGold": 210 },
+  { "fishId": "fish_19", "quantity": 1, "priceGold": 750 },
+  { "fishId": "fish_20", "quantity": 1, "priceGold": 950 },
+  { "fishId": "fish_21", "quantity": 1, "priceGold": 1200 },
+  { "fishId": "fish_22", "quantity": 1, "priceGold": 1850 },
+  { "fishId": "fish_23", "quantity": 1, "priceGold": 2300 },
+  { "fishId": "fish_24", "quantity": 1, "priceGold": 2700 },
+  { "fishId": "fish_25", "quantity": 1, "priceGold": 3200 },
+  { "fishId": "fish_26", "quantity": 1, "priceGold": 4100 },
+  { "fishId": "fish_27", "quantity": 1, "priceGold": 5200 }
 ]
