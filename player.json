@@ -1,4 +1,6 @@
 {
+  "list":  [
+  {
   "playerName": "Quách Chí Công",
   "vipLevel": 3,
   "avatarUrl": "https://raw.githubusercontent.com/pacatemon-code/game-data/main/Avata.png",
@@ -8,4 +10,8 @@
   "fishCur": 0, "fishMax": 10,
   "staminaCur": 10, "staminaMax": 100,
   "mailUnread": true, "event1Unread": false, "event2Unread": true
+
+  }
+  ]
 }
+    
